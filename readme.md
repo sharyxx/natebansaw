@@ -1,5 +1,5 @@
-## Please upload your Homeworks here
-## Please make the habit of using git 
+* Please upload your Homeworks here
+* Please make the habit of using git 
 
 ## Some resources for you guys
 
