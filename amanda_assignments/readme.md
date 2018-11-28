@@ -1,8 +1,8 @@
 ## Please watch the following list of videos and see if you can understand it
 
-1 . [Ruby install](https://www.ruby-lang.org/en/documentation/installation/) 
-2 . [MVC structure *together*](https://www.youtube.com/watch?v=pCvZtjoRq1I)
-3 . #Run this in Ruby
+1. [Ruby install](https://www.ruby-lang.org/en/documentation/installation/) 
+2. [MVC structure *together*](https://www.youtube.com/watch?v=pCvZtjoRq1I)
+3. Run this in Ruby
 
 ```ruby
 	
