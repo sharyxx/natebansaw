@@ -1,5 +1,6 @@
 * Please upload your Homeworks here
 * Please make the habit of using git 
+* Watch this [vidoe](https://www.youtube.com/watch?v=OaDhY_y8WTo)
 
 ## Some resources for you guys
 
